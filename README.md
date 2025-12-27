@@ -28,4 +28,4 @@ The model was trained for **57+ Epochs** using a OneCycleLR scheduler.
 ## 🛠️ How to Run
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/munawwaer/Documenting-neural-networks.git](https://github.com/YOUR_USERNAME/HDPE-Autonomous-Driving.git)
+   git clone [https://github.com/munawwaer/Documenting-neural-networks.git]
