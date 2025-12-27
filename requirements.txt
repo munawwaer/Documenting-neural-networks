@@ -1,0 +1,9 @@
+torch
+torchvision
+timm==0.4.12
+wandb
+laspy[lazrs]
+numpy
+opencv-python
+matplotlib
+tqdm
